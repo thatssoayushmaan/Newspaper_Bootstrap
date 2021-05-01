@@ -1,0 +1,33 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #e9ecef;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+
+#visa {
+  height: 50%;
+  width: 100%;
+}
+
+.politician {
+  height: 50%;
+  width: 100%;
+}
+
+#trump {
+  width: 100%;
+}
+
+.card {
+  border: none;
+}
+
+#phot {
+  height: 150px;
+}
+
+small {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
